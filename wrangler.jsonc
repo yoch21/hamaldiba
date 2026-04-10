@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hamaldiba",
+  "compatibility_date": "2026-04-10",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "wispy-waterfall-5f12"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
